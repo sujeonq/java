@@ -7,7 +7,6 @@ public class Product {
 	private int productStock;
 
 	public Product(String productId, String productName, int price, int quantity) {
-		super();
 		this.productId = productId;
 		this.productName = productName;
 		this.productPrice = price;
